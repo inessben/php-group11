@@ -1,0 +1,1 @@
+<!-- Vue pour l'accueil utilisateur -->

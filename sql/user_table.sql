@@ -1,0 +1,2 @@
+-- Fichier SQL pour la structure de la table
+-- création de la table "user"

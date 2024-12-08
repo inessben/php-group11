@@ -1,0 +1,1 @@
+<!-- Contrôleur pour l'inscription et la connexion -->
